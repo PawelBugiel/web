@@ -1,4 +1,4 @@
-### pawelbugiel.github.io
+#### pawelbugiel.github.io
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/2/21/Southern_Ring_Nebula_by_Webb_Telescope_%282022%29.jpg">
